@@ -1,0 +1,2 @@
+# Project_DIVA_Mega39s_auto
+使用yolov5识别屏幕+按键时间估算实现自动玩Project_DIVA_Mega39s/use yolov5+eta to play Project_DIVA_Mega39s automatically
