@@ -1,5 +1,5 @@
 # Project_DIVA_Mega39s_auto
-[English README](readme_en.md)<br>
+[English README](readme_en.md) | [日本語のREADME](readme_jp.md)<br>
 ---
 
 使用yolov5识别屏幕+按键时间估算实现自动玩Project_DIVA_Mega39s<br>
