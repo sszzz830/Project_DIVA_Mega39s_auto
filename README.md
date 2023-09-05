@@ -1,5 +1,8 @@
 # Project_DIVA_Mega39s_auto
-使用yolov5识别屏幕+按键时间估算实现自动玩Project_DIVA_Mega39s/use yolov5+eta to play Project_DIVA_Mega39s automatically
+[English README](readme_en.md)<br>
+---
+
+使用yolov5识别屏幕+按键时间估算实现自动玩Project_DIVA_Mega39s<br>
 <img width="529" alt="yolo result" src="https://github.com/sszzz830/Project_DIVA_Mega39s_auto/assets/32834442/e4342a30-d40b-42fc-b2e6-669fd0515e89">
 
 ## 使用方法
